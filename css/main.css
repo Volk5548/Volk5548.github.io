@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(57, 80, 102);
+}
+h1
+{
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(252, 218, 218)
+}
+ul
+{
+    font-size: 18pt;
+}
+p
+{
+    font-size: 2.5vmax;
+}
+img
+{
+    width: 40vmax;
+}
