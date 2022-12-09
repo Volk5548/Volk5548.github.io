@@ -1,17 +1,17 @@
 :root
 {
-    --favcolor: rgb(41, 22, 230);
+    -favcolor: rgb(41, 22, 230);
 }
 h1
 {
     text-align: center;
-    color: var(--favcolor);
+    color: var(-favcolor);
     background-color: rgb(230,22,179);
     font-size: 40pt;
 }
 section
 {
-    color: var(--favcolor);
+    color: var(-favcolor);
     float: right;
 }
 p
@@ -29,5 +29,5 @@ div.button
 }
 img
 {
-    border-radius:40%
+    border-radius:40%;
 }
